@@ -1,4 +1,6 @@
-# react-app-frontend
+# React-Dynamo-ServerLess
+
+https://www.pluralsight.com/guides/building-a-serverless-web-app-on-aws-services
 
 Sample app created with [Create React App](https://github.com/facebookincubator/create-react-app) and used for my tutorial [Building a Serverless Web App with AWS Services](https://www.pluralsight.com/guides/front-end-javascript/building-a-serverless-web-app-on-aws-services).
 
