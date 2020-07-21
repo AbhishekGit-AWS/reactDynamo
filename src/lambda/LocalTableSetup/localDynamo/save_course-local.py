@@ -40,5 +40,4 @@ if __name__ == '__main__':
     }
 
     course_resp = save_course(course)
-    if course_resp
     pprint(course_resp)
