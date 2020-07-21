@@ -1,0 +1,6 @@
+get-all-authors to return all the users in the database
+get-all-courses to return all the courses in the database
+get-course to return only one course
+save-course to create a new course
+update-course to update a course
+delete-course to delete a course
